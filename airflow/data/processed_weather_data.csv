@@ -1,0 +1,2 @@
+base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,main.sea_level,main.grnd_level,wind.speed,wind.deg,wind.gust,snow.1h,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset,weather.id,weather.main,weather.description,weather.icon
+stations,10000,1739719496,10800,524901,Moscow,200,37.6156,55.7522,-9.129999999999995,-14.45999999999998,-9.70999999999998,-8.120000000000005,1013,57,1013,993,2.99,325,6.35,0.13,100,2,2094500,RU,1739681529,1739716521,600,Snow,light snow,13n
